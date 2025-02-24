@@ -1,0 +1,3 @@
+/Users/m2/Documents/code/c++/DS-Project/تحلیل شبکه اجتماعی کوچک با استفاده از گراف/cmake-build-debug/CMakeFiles/_______.dir
+/Users/m2/Documents/code/c++/DS-Project/تحلیل شبکه اجتماعی کوچک با استفاده از گراف/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/m2/Documents/code/c++/DS-Project/تحلیل شبکه اجتماعی کوچک با استفاده از گراف/cmake-build-debug/CMakeFiles/rebuild_cache.dir

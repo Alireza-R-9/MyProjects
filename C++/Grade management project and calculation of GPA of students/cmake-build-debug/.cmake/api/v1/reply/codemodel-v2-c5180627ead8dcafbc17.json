@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Grade_management_project_and_calculation_of_GPA_of_students",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Grade_management_project_and_calculation_of_GPA_of_students::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Grade_management_project_and_calculation_of_GPA_of_students-Debug-4dc8ab48c2a83dcb3610.json",
+					"name" : "Grade_management_project_and_calculation_of_GPA_of_students",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/m2/Documents/code/c++/Grade management project and calculation of GPA of students/cmake-build-debug",
+		"source" : "/Users/m2/Documents/code/c++/Grade management project and calculation of GPA of students"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

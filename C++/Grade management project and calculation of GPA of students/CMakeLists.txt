@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Grade_management_project_and_calculation_of_GPA_of_students)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Grade_management_project_and_calculation_of_GPA_of_students main.cpp)

@@ -1,0 +1,3 @@
+/Users/m2/Documents/code/c++/DS-Project/سیستم پیشنهادی مسیر در مترو/cmake-build-debug/CMakeFiles/____.dir
+/Users/m2/Documents/code/c++/DS-Project/سیستم پیشنهادی مسیر در مترو/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/m2/Documents/code/c++/DS-Project/سیستم پیشنهادی مسیر در مترو/cmake-build-debug/CMakeFiles/rebuild_cache.dir

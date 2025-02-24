@@ -1,0 +1,3 @@
+/Users/m2/Documents/code/c++/Grade management project and calculation of GPA of students/cmake-build-debug/CMakeFiles/Grade_management_project_and_calculation_of_GPA_of_students.dir
+/Users/m2/Documents/code/c++/Grade management project and calculation of GPA of students/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/m2/Documents/code/c++/Grade management project and calculation of GPA of students/cmake-build-debug/CMakeFiles/rebuild_cache.dir

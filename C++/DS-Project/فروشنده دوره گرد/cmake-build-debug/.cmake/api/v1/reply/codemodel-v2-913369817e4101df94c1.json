@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-__-Debug-65e61a8ae8c65129ba62.json",
+					"name" : "__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/m2/Documents/code/c++/DS-Project/\u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647 \u06af\u0631\u062f/cmake-build-debug",
+		"source" : "/Users/m2/Documents/code/c++/DS-Project/\u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647 \u06af\u0631\u062f"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
